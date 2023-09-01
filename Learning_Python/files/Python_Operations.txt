@@ -1,0 +1,50 @@
+Logical Operations
+
+AND: both conditions need to be met
+"if applicant has good credit 'AND' a good income"
+
+OR: one condition needs to be met
+"if applicant has good credit 'OR' good income"
+
+NOT: neither 
+"if applicant has good credit and not criminal record"
+
+Comparision Operations
+
+>:
+"if variable is greater than x"
+
+<:
+"if variable is less than x"
+
+>=:
+"if variable is greater than or equal oo"
+
+<=:
+"if variable is less than or equal to."
+
+==:
+"if variable is equal to."
+
+!=: 
+"if variable is not equal to."
+
+If Statments
+
+if:
+ " 'if' applicant has good credit they are eligible for a loan." 
+ 
+ else: " 'else'they are not eligible."
+
+elif "if the if else statment is false, elif is chosen."
+
+While Loops
+
+While:
+"While loops run a loop an infinite amount of times until a condition is met. EI, while i >= 5"
+
+break:
+"Break command will end the loop if a conditoin is met before the loop is finished."
+
+For loops
+
